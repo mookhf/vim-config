@@ -42,6 +42,8 @@ Bundle 'https://github.com/Lokaltog/vim-powerline.git'
 " Bundle 'file:///home/gmarik/path/to/plugin'
 " ...
 
+Bundle  'godlygeek/tabular'
+Bundle  'plasticboy/vim-markdown'
 
 " common setting 
 " 去掉输入错误的提示声音
